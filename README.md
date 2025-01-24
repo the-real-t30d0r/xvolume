@@ -9,7 +9,7 @@ XVolume is a Open Source Solana Volume/Buy-Sell Bot toolkit for macOS and Window
 - **Automated trading cycles**: Run repeated buy/sell cycles automatically.
 - **User-friendly console menu**: Navigate with numeric or letter-based menu options.
 
-[![Alt-Text](https://raw.githubusercontent.com/the-real-t30d0r/xvolume/refs/heads/main/xvolume.png)]
+![Alt-Text](https://raw.githubusercontent.com/the-real-t30d0r/xvolume/refs/heads/main/xvolume.png)
 ## Highlights
 
 - **Create Wallets**: Generates new local wallets, each with a random Keypair.
