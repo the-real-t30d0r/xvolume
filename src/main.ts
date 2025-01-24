@@ -2620,7 +2620,7 @@ async function mainMenu() {
     console.log("9) Distribute SOL         🚚");
     console.log("10) Burn / Reclaim SOL    🔥");      
     console.log("11) Dashboard             📊");
-    console.log("O) Options (License/RPC/Wallet Mgmt)");
+    console.log("O) Options (RPC/Wallet Mgmt)");
     console.log("X) Exit                 🔚");
 
     const { choice } = await inquirer.prompt({
