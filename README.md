@@ -1,6 +1,6 @@
 # Overview
 
-XVolume is a Open Source Solana Volume/Buy-Sell Bot toolkit for macOS and Windows. It runs locally and offers the following features:
+XVolume is a Open Source Solana Buy-Sell Bot toolkit for macOS and Windows. It runs locally and offers the following features:
 
 - **Manage multiple wallets**: Each wallet manages its own SOL and SPL tokens.
 - **Multi-wallet operations**: Perform multi-wallet buys and sells of tokens seamlessly.
